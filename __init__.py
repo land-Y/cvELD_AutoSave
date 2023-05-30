@@ -6,7 +6,7 @@ bl_info = {
     "location": "Preferences",
     "description": "Autosave will not work unless saved as .blend",
     "warning": "",
-    "doc_url": "https://cveld.net/?p=677",
+    "doc_url": "https://cveld.net/?p=9219",
     "tracker_url": "https://twitter.com/cvELD_info",
     "category": "System",
 }

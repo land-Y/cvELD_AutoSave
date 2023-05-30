@@ -1,12 +1,8 @@
 # Overview
-This is an autosave tool that works with Blender 3.x.
-Blender autosave does not work depending on environment or situation.
-It is a mysterious specification. What is it? Is it because the data is stored in the network?
+Summary
+This is an automatic saving tool for Blender 3.x. Sometimes, due to environmental or situational factors, Blender's auto-save feature might not work. This could be puzzling, and could potentially be due to storing data on a network.
 
-In such a case, this tool is for you.
+This tool is perfect for such situations.
 
-How to use:
-After installing the add-on, specify the auto save timer.
-It will not work with a new scene that has not been saved at all.
-Be sure to save the scene somewhere.
-That's all.
+Instructions:
+After installing the add-on, you need to specify an auto-save timer. Please note, the tool will not function if you are working on a new scene that hasn't been saved anywhere yet. Make sure to save your scene somewhere. That's it. Enjoy your work without the fear of losing progress!

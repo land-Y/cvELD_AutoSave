@@ -1,0 +1,5 @@
+自動保存タイマー（分）,Auto Save Timer (in minutes)
+現在のファイルを自動保存する間隔,Interval for autosaving the current file
+タイマー,timer
+自動保存されたファイル,Auto saved file
+.blendとして保存されていない限り、自動保存は機能しません。,Autosave will not work unless saved as .blend

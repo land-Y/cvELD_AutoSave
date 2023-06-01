@@ -1,5 +1,12 @@
 自動保存タイマー（分）,Auto Save Timer (in minutes)
 現在のファイルを自動保存する間隔,Interval for autosaving the current file
 タイマー,timer
-自動保存されたファイル,Auto saved file
-.blendとして保存されていない限り、自動保存は機能しません。,Autosave will not work unless saved as .blend
+自動保存,Auto Saving
+自動保存が現在有効かどうか,Whether auto saving is currently enabled
+シーンはまだ保存されていません。自動保存はキャッシュフォルダに保存されます。,The scene is not saved yet. Autosave will be stored in the cache folder.
+自動保存されたファイル: ,Auto saved file:
+ビューポートの左上のアイコンを有効化すると自動保存モードになります。,Activate the icon in the upper left corner of the viewport to enter auto save mode.
+自動保存の有効と、タイマー設定の再読み込み。,Enable auto save and reload timer settingstime setting.
+自動保存の有効,Enable Auto Save
+自動保存の時間は,Auto saving at
+起動時の自動保存を有効にする,Enable Autosave on Start
